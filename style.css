@@ -40,6 +40,12 @@ body {
     background-color: #00cc00;
 }
 
+.contact .col-md-6 {
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
 .hero {
     background-color: #f8f9fa;
@@ -72,3 +78,4 @@ footer p {
     position: relative;
     display: inline-block;
 }
+
