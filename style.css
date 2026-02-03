@@ -1,0 +1,74 @@
+
+body {
+    padding-top: 70px;
+    font-family: Arial, sans-serif;
+}
+
+
+.nav-programmer {
+    background-color: #1a1a1a;
+    border-bottom: 2px solid #00ff00;
+}
+
+.nav-programmer .navbar-brand {
+    color: #00ff00 !important;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+.nav-programmer .nav-link {
+    color: #ffffff !important;
+    font-family: 'Courier New', monospace;
+    margin: 0 5px;
+    transition: all 0.2s;
+}
+
+.nav-programmer .nav-link:hover {
+    color: #00ff00 !important;
+}
+
+
+.btn-programmer {
+    background-color: #00ff00;
+    color: #000;
+    font-weight: bold;
+    border: none;
+}
+
+.btn-programmer:hover {
+    background-color: #00cc00;
+}
+
+
+.hero {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+.section-padding {
+    padding: 60px 0;
+}
+
+
+.card {
+    border: 1px solid #ddd;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+
+footer {
+    background-color: #1a1a1a;
+    color: white;
+    border-top: 2px solid #00ff00;
+    padding: 20px 0;
+}
+
+footer p {
+    position: relative;
+    display: inline-block;
+}
+
